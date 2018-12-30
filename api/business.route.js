@@ -66,4 +66,6 @@ businessRoutes.route("delete/:id").get(function(req, res) {
   });
 });
 
+
+
 module.exports = businessRoutes;
